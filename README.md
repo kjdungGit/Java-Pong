@@ -1,3 +1,7 @@
+# Java-Pong
+
+Mini-project for developing the classic Ping-Pong arcade game for Java, including an AI opponent.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
